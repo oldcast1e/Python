@@ -1,0 +1,5 @@
+U = input("당신의 대학이름은?")
+N = int(input("당신의 수험번호:"))
+A = int(input('당신의 나이:'))
+print()
+print('{}univ reverse numbe_{} school number{}'.format(U,N,A))

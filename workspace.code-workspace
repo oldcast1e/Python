@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Python\\Visual Studio"
+		},
+		{
+			"name": "Arduino_VScode",
+			"path": "..\\..\\..\\..\\Documents\\PlatformIO\\Projects\\Arduino_VScode"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"e1_2.10.C": "cpp"
+		}
+	}
+}

@@ -1,0 +1,5 @@
+myTuple = (1, 9, 7, 3, 2, 4, 8, 5, 6)
+ml = list(myTuple)
+ml.sort()
+mt2 = tuple(ml)
+print('resultTuple =',mt2)

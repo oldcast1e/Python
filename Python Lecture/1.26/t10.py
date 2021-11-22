@@ -1,0 +1,5 @@
+myTuple = (1, 9, 7, 3, 2, 4, 8, 5, 6)
+mtList = list(myTuple)
+mtList.sort()
+myTuple2 = tuple(mtList)
+print("resultTuple =",myTuple2)
