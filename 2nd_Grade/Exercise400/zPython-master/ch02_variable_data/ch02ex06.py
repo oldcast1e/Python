@@ -5,3 +5,5 @@ print(type(result))
 
 result = "HONG"
 print(type(result))
+
+kko = True

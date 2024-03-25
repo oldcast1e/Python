@@ -1,0 +1,1 @@
+print('{0:5} is {1:^5} dollar bill.'.format('This', 100))
