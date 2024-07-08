@@ -1,0 +1,10 @@
+print("::: 고객 정보 입력 :::")
+name = input("고객명 입력>> ")
+age = int(input("나이 입력>> "))
+email = input("이메일 입력>> ")
+phone = input("전화번호 입력>> ")
+
+print("{:-^60}".format("입력결과"))
+print("{: ^10}|{: ^5}|{: ^25}|{: ^20}".format("name","age","email","phone"))
+print("-"*65)
+print("{: ^10}|{: ^5}|{: ^25}|{: ^20}".format(name,age,email,phone))
